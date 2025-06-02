@@ -41,5 +41,3 @@ Hackapad:
 
 
 ---
-
-![Discord Status](https://lanyard.cnrad.dev/api/badge/<891373392454881281>)
