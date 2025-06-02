@@ -1,6 +1,8 @@
 hello :3
 My name is **Halia**, I am a 13 year old _bisexual and nonbinary_ dumbass. i love _**avocados and chicken alfredo**_
 my statistics are absolute shit but... i dont have an excuse, i just set up hackatime on everything tho :3
+![image](https://github.com/user-attachments/assets/9e40ca65-0f5f-49fa-8660-b99c4cafea88)
+
 
 ---
 
@@ -34,7 +36,7 @@ Hackapad:
 **the things i am kinda proficent in:**
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,js,linux,lua,ai,robloxstudio,windows,vscode,py,pycharm,svelte,raspberrypi,androidstudio,c,cs,cpp,gamemakerstudio,github,gitlab,html,css&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,js,linux,lua,ai,robloxstudio,windows,vscode,py,pycharm,svelte,raspberrypi,androidstudio,c,cs,cpp,gamemakerstudio,github,gitlab,html,css,aurduino&perline=9)](https://skillicons.dev)
 
 
 
