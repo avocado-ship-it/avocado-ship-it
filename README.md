@@ -42,4 +42,4 @@ Hackapad:
 
 ---
 
-
+![Discord Activity](https://lanyard-profile-readme.vercel.app/api/card/<891373392454881281>)
