@@ -41,3 +41,8 @@ Hackapad:
 
 
 ---
+
+![Static Badge](https://img.shields.io/badge/give%20me%20money%20now-green)
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
