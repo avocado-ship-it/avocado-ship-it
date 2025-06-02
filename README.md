@@ -3,6 +3,8 @@ My name is **Halia**, I am a 13 year old _bisexual and nonbinary_ dumbass. i lov
 my statistics are absolute shit but... i dont have an excuse, i just set up hackatime on everything tho :3
 ![image](https://github.com/user-attachments/assets/9e40ca65-0f5f-49fa-8660-b99c4cafea88)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
@@ -42,7 +44,8 @@ Hackapad:
 
 ---
 
-![Static Badge](https://img.shields.io/badge/give%20me%20money%20now-green)
+![Static Badge](https://img.shields.io/badge/cashapp%20me%20so%20i%20can%20not%20go%20broke-green?style=for-the-badge&link=https%3A%2F%2Fcash.app%2F%24hhamzaabdi)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
