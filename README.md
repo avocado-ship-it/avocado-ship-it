@@ -15,10 +15,3 @@ Hackapad:
   my hackpad with 2 extra buttons, one button does commits, one makes prs, one makes a new branch, one opens slack, one discord, and one instantly tests your code in prod
 
 **the things i am kinda proficent in:**
-![image](https://github.com/user-attachments/assets/58ed551a-3fd8-4c4f-b64a-e140032c0779) 
-![image](https://github.com/user-attachments/assets/767d91e2-9d88-4a8b-897a-4177a823c50c)
-![image](https://github.com/user-attachments/assets/d46771cf-94f8-4330-92d8-d94747aee477)
-![image](https://github.com/user-attachments/assets/bcd0aa43-2a5e-41b8-9267-80f77d8b5196)
-![image](https://github.com/user-attachments/assets/627658ab-1d62-4c96-ab03-8305a9951fd4)
-![image](https://github.com/user-attachments/assets/48121ca0-0757-40b8-a86f-8e9e901e3842)
-![image](https://github.com/user-attachments/assets/32d7c417-5d7a-4f46-99cf-4fc80e51229c)
