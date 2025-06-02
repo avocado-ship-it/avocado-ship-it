@@ -5,9 +5,10 @@ my statistics are absolute shit but... i dont have an excuse, i just set up hack
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avocado-ship-it&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avocado-ship-it&theme=radical&show_icons=true&hide_border=true&layout=compact)
 ![image](https://github.com/user-attachments/assets/41f76593-2f3d-4080-983f-ba6c4c2d655e)
+
 these arent good, but i do love coding and now that it is summer i can code all i want :3
-**
-here are some previews of projects i am working on:**
+
+**here are some previews of projects i am working on:**
 Hackatime nfc clock in:
   this is an nfc reader that when you tap your card it opens up the hackatime login screen and when you are logged in you can select your default code editor and from then on, on any device, you can use the key
 
