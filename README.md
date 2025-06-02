@@ -16,4 +16,6 @@ Hackapad:
   my hackpad with 2 extra buttons, one button does commits, one makes prs, one makes a new branch, one opens slack, one discord, and one instantly tests your code in prod
 
 **the things i am kinda proficent in:**
+
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,js,linux,lua,ai,robloxstudio,windows,vscode,py,pycharm,svelte,raspberrypi,androidstudio,c,cs,cpp,gamemakerstudio&perline=9)](https://skillicons.dev)
