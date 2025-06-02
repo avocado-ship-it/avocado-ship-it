@@ -34,7 +34,7 @@ Hackapad:
 **the things i am kinda proficent in:**
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,js,linux,lua,ai,robloxstudio,windows,vscode,py,pycharm,svelte,raspberrypi,androidstudio,c,cs,cpp,gamemakerstudio,github,gitlab&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,js,linux,lua,ai,robloxstudio,windows,vscode,py,pycharm,svelte,raspberrypi,androidstudio,c,cs,cpp,gamemakerstudio,github,gitlab,html,css&perline=9)](https://skillicons.dev)
 
 
 
