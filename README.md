@@ -17,11 +17,12 @@ these arent good, but i do love coding and now that it is summer i can code all 
 ---
 
 **here are some previews of projects i am working on:**
-Hackatime nfc clock in:
+**
+**Hackatime nfc clock in:
   this is an nfc reader that when you tap your card it opens up the hackatime login screen and when you are logged in you can select your default code editor and from then on, on any device, you can use the key
 
 Hackapad:
-  my hackpad with 2 extra buttons, one button does commits, one makes prs, one makes a new branch, one opens slack, one discord, and one instantly tests your code in prod
+  my hackpad with 2 extra buttons, one button does commits, one makes prs, one makes a new branch, one opens slack, one discord, and one instantly tests your code in prod****
 
 ---
 
