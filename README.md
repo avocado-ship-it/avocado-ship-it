@@ -1,5 +1,5 @@
 hello :3
-my name is **halia**, i am a 13 year old _bisexual and nonbinary_ dumbass. i love avocados and chicken alfredo
+My name is **Halia**, I am a 13 year old _bisexual and nonbinary_ dumbass. i love _**avocados and chicken alfredo**_
 my statistics are absolute shit but... i dont have an excuse, i just set up hackatime on everything tho :3
 
 ---
